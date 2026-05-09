@@ -46,9 +46,19 @@ Currently improving my backend skills and moving towards **Data Science & AI**.
 ![](https://streak-stats.demolab.com/?user=Hassanstarr&theme=dark)
 
 
-
 ---
 
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Hassan-blue?logo=linkedin)](https://linkedin.com/in/1ts-muhammad-hassan/)
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/Hassanstarr/HassanStarr/blob/output/github-snake-dark.svg)
+
+</div>
+
