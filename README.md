@@ -36,15 +36,6 @@ Currently improving my backend skills and moving towards **Data Science & AI**.
 
 <div>
 <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,cpp,c,html,css,tailwind,bootstrap,mysql,git,postman" />
-</div>
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.shion.dev/api?username=Hassanstarr&theme=dark)
-![](https://streak-stats.demolab.com/?user=Hassanstarr&theme=dark)
-
 
 ---
 
